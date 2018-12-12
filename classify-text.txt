@@ -1,0 +1,8 @@
+{
+  "categories": [
+    {
+      "confidence": 0.87,
+      "name": "/Computers & Electronics"
+    }
+  ]
+}
