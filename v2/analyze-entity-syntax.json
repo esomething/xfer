@@ -1,0 +1,3504 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 15,
+            "content": "Rose Barlow"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3,
+            "content": "President"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 170,
+            "content": "Rose Barlow"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 246,
+            "content": "Rose"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 272,
+            "content": "President"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 388,
+            "content": "Rose"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 586,
+            "content": "Co-President"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 745,
+            "content": "Rose"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 757,
+            "content": "Executive Director"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 872,
+            "content": "executive board member"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1037,
+            "content": "Rose"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1048,
+            "content": "alumna"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.9,
+            "score": 0.9
+          },
+          "text": {
+            "beginOffset": 1179,
+            "content": "member"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1195,
+            "content": "Rose"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Rose Barlow",
+      "salience": 0.7325983,
+      "sentiment": {
+        "magnitude": 3.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1329,
+            "content": "Scott Barshack"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1352,
+            "content": "Scott"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1645,
+            "content": "Medical Director"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1840,
+            "content": "Scott"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1998,
+            "content": "father"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11f0yf3lt9"
+      },
+      "name": "Scott Barshack",
+      "salience": 0.0779882,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 65,
+            "content": "Colleen Horowitz"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 53,
+            "content": "Secretary"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Colleen Horowitz",
+      "salience": 0.013499499,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 139,
+            "content": "Marty Friedman"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 127,
+            "content": "President"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01lgxr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marty_Friedman"
+      },
+      "name": "Marty Friedman",
+      "salience": 0.013499499,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 234,
+            "content": "day school"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "day school",
+      "salience": 0.010095997,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2034,
+            "content": "David Cohen"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2054,
+            "content": "David"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2201,
+            "content": "David"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2210,
+            "content": "Senior Product Director"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 2722,
+            "content": "David"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2810,
+            "content": "David"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2946,
+            "content": "David"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "David Cohen",
+      "salience": 0.009489801,
+      "sentiment": {
+        "magnitude": 1.3,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 488,
+            "content": "Brandeis Hillel Day School"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1823,
+            "content": "Brandeis"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2010,
+            "content": "Brandeis"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3243,
+            "content": "Brandeis"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3941,
+            "content": "Brandeis"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11cmyb9t56",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Brandeis_School_of_San_Francisco"
+      },
+      "name": "Brandeis Hillel Day School",
+      "salience": 0.009481802,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 341,
+            "content": "Finance, Facilities and Governance Committees"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Finance, Facilities and Governance Committees",
+      "salience": 0.006671412,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 227,
+            "content": "Jewish"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4041,
+            "content": "Jewish"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/041rx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jews"
+      },
+      "name": "Jewish",
+      "salience": 0.0063627735,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 85,
+            "content": "Treasurer"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Treasurer",
+      "salience": 0.0060607074,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 204,
+            "content": "supporter"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "supporter",
+      "salience": 0.0060607074,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2977,
+            "content": "daughter"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 2987,
+            "content": "Rosie"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Rosie",
+      "salience": 0.0052819415,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 217,
+            "content": "Marin"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1392,
+            "content": "Marin"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1598,
+            "content": "Marin\n  General Hospital"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0l2hf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marin_County,_California"
+      },
+      "name": "Marin",
+      "salience": 0.0049834573,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 266,
+            "content": "Board"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Board",
+      "salience": 0.004478974,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 300,
+            "content": "Executive"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Executive",
+      "salience": 0.0040867715,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 35,
+            "content": "Eric Zimmerman"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Eric Zimmerman",
+      "salience": 0.0035913382,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 328,
+            "content": "Budget &amp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Budget &amp",
+      "salience": 0.0035913382,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 311,
+            "content": "Head Evaluation"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Head Evaluation",
+      "salience": 0.0035913382,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 97,
+            "content": "Orr"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Orr",
+      "salience": 0.0035913382,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2261,
+            "content": "Allianz Global Corporate & Specialty Insurance"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Allianz Global Corporate & Specialty Insurance",
+      "salience": 0.0020523854,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 655,
+            "content": "school search committee"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "school search committee",
+      "salience": 0.002040446,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 3149,
+            "content": "Becky Fenster"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3171,
+            "content": "Becky"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3563,
+            "content": "Becky"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3726,
+            "content": "Becky"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3918,
+            "content": "Becky"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Becky Fenster",
+      "salience": 0.0018750327,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3490,
+            "content": "school"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "school",
+      "salience": 0.0016915044,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1305,
+            "content": "Brandeis Marin."
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Brandeis Marin.",
+      "salience": 0.0015099655,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 626,
+            "content": "member"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "member",
+      "salience": 0.0014683439,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 405,
+            "content": "co-chair"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "co-chair",
+      "salience": 0.0014129003,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 647,
+            "content": "head"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "head",
+      "salience": 0.0013672435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 600,
+            "content": "Chair"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Chair",
+      "salience": 0.0013672435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 709,
+            "content": "Chair"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Chair",
+      "salience": 0.0013672435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 699,
+            "content": "Board"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Board",
+      "salience": 0.0013672435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2190,
+            "content": "committee"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "committee",
+      "salience": 0.0012583334,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 477,
+            "content": "trustee"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trustee",
+      "salience": 0.0012515096,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 680,
+            "content": "Secretary"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Secretary",
+      "salience": 0.0012470895,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1859,
+            "content": "school"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "school",
+      "salience": 0.0012326115,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 421,
+            "content": "Advancement Committee"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Advancement Committee",
+      "salience": 0.0012169065,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 722,
+            "content": "Committee on Trustees"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Committee on Trustees",
+      "salience": 0.0012065761,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 784,
+            "content": "Breast Cancer"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Breast Cancer",
+      "salience": 0.0010924258,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 832,
+            "content": "capacity building consultant"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "capacity building consultant",
+      "salience": 0.0010924258,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1951,
+            "content": "Chair"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Chair",
+      "salience": 0.0010021945,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1561,
+            "content": "Medical Director of Mental Health"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Medical Director of Mental Health",
+      "salience": 0.0009894032,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2448,
+            "content": "designation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "designation",
+      "salience": 0.0009515369,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1832,
+            "content": "parent"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "parent",
+      "salience": 0.0009194955,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1869,
+            "content": "room parent"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "room parent",
+      "salience": 0.0009194955,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": 0.8
+          },
+          "text": {
+            "beginOffset": 1759,
+            "content": "practice"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "practice",
+      "salience": 0.0008758999,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3013,
+            "content": "Brandeis Marin"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3588,
+            "content": "Brandeis Marin"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/1tm88nsg"
+      },
+      "name": "Brandeis Marin",
+      "salience": 0.00086063024,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1886,
+            "content": "times"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "times",
+      "salience": 0.0008386481,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1146,
+            "content": "relations"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "relations",
+      "salience": 0.00083290774,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1239,
+            "content": "daughters"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "daughters",
+      "salience": 0.0008308536,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1379,
+            "content": "residents"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "residents",
+      "salience": 0.0008308536,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1121,
+            "content": "career"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "career",
+      "salience": 0.00082737027,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 613,
+            "content": "Annual Fund"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Annual Fund",
+      "salience": 0.00080821034,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 554,
+            "content": "Marin campus Parent Association"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Marin campus Parent Association",
+      "salience": 0.00080821034,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 902,
+            "content": "Jewish National Fund"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 975,
+            "content": "Jewish National Funds"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03n2xc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jewish_National_Fund"
+      },
+      "name": "Jewish National Fund",
+      "salience": 0.00080418785,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3657,
+            "content": "Mishpacha"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3672,
+            "content": "family\n  alumni association"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03c20_x",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mishpacha"
+      },
+      "name": "Mishpacha",
+      "salience": 0.0007958665,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3971,
+            "content": "husband"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3980,
+            "content": "Bryce"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Bryce",
+      "salience": 0.00079466664,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2238,
+            "content": "Commercial Property"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Commercial Property",
+      "salience": 0.0007681682,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2360,
+            "content": "underwriting"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "underwriting",
+      "salience": 0.0007681682,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2377,
+            "content": "management"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "management",
+      "salience": 0.0007681682,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1964,
+            "content": "Chesed Committee"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Chesed Committee",
+      "salience": 0.0007444209,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2084,
+            "content": "Budget and Finance Committee and Investment Subcommittee"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Budget and Finance Committee and Investment Subcommittee",
+      "salience": 0.00074378913,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1505,
+            "content": "adults"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "adults",
+      "salience": 0.00073880167,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1485,
+            "content": "teenagers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "teenagers",
+      "salience": 0.00073880167,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1473,
+            "content": "interest"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "interest",
+      "salience": 0.00073880167,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1423,
+            "content": "psychiatrist"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "psychiatrist",
+      "salience": 0.00073880167,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 1715,
+            "content": "program"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "program",
+      "salience": 0.0007372843,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1025,
+            "content": "task force"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "task force",
+      "salience": 0.00073383574,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1062,
+            "content": "Universities"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Universities",
+      "salience": 0.00073263084,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1409,
+            "content": "counties"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "counties",
+      "salience": 0.00072976516,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1275,
+            "content": "college junior"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "college junior",
+      "salience": 0.00072976516,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1252,
+            "content": "college graduate"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "college graduate",
+      "salience": 0.00072976516,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2388,
+            "content": "roles"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "roles",
+      "salience": 0.0006747001,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3776,
+            "content": "committees"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "committees",
+      "salience": 0.0006598214,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 804,
+            "content": "Taproot Foundation"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0g808j",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Taproot_Foundation"
+      },
+      "name": "Taproot Foundation",
+      "salience": 0.0006456673,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4020,
+            "content": "members"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "members",
+      "salience": 0.0005990512,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3409,
+            "content": "classroom"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "classroom",
+      "salience": 0.00057652104,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3356,
+            "content": "Israel Education Committee"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Israel Education Committee",
+      "salience": 0.00055809616,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1216,
+            "content": "Chris Barlow"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Chris Barlow",
+      "salience": 0.0005383577,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.7,
+            "score": 0.7
+          },
+          "text": {
+            "beginOffset": 1919,
+            "content": "Family Talent Show"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Family Talent Show",
+      "salience": 0.00053661765,
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3202,
+            "content": "classroom teacher"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "classroom teacher",
+      "salience": 0.0005069515,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3264,
+            "content": "tenure"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "tenure",
+      "salience": 0.00050664705,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3469,
+            "content": "project"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "project",
+      "salience": 0.000506357,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 3095,
+            "content": "Marin School of Environmental Leadership."
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11b7q559yl"
+      },
+      "name": "Marin School of Environmental Leadership.",
+      "salience": 0.00050141884,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3065,
+            "content": "Terra\n  Linda High School"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0403lk4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Terra_Linda_High_School"
+      },
+      "name": "Terra Linda High School",
+      "salience": 0.00050141884,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2960,
+            "content": "wife"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2965,
+            "content": "Toni"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Toni",
+      "salience": 0.0004994162,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1669,
+            "content": "Paradigm San Francisco Adolescent Residential"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Paradigm San Francisco Adolescent Residential",
+      "salience": 0.000496062,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2408,
+            "content": "Chartered Property-Casualty Underwriter"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Chartered Property-Casualty Underwriter",
+      "salience": 0.00045360342,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3910,
+            "content": "campus"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "campus",
+      "salience": 0.00044187251,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1788,
+            "content": "Petaluma"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0r771",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaluma,_California"
+      },
+      "name": "Petaluma",
+      "salience": 0.0004356846,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1771,
+            "content": "Corte Madera"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0r1cs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Corte_Madera,_California"
+      },
+      "name": "Corte Madera",
+      "salience": 0.0004356846,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1726,
+            "content": "San Rafael"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0r1jr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/San_Rafael,_California"
+      },
+      "name": "San Rafael",
+      "salience": 0.0004356846,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 927,
+            "content": "Northern California Region"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/012x2r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Northern_California"
+      },
+      "name": "Northern California Region",
+      "salience": 0.00043446972,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1007,
+            "content": "Nefesh B\u2019Nefesh"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0cdg26",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nefesh_B'Nefesh"
+      },
+      "name": "Nefesh B'Nefesh",
+      "salience": 0.00043364597,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1096,
+            "content": "Witwatersrand"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01vg0s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_the_Witwatersrand"
+      },
+      "name": "Witwatersrand",
+      "salience": 0.00043293365,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1078,
+            "content": "Cape Town"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01yj2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Town"
+      },
+      "name": "Cape Town",
+      "salience": 0.00043293365,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 1189,
+            "content": "SHRM"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0fnbm2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_Human_Resource_Management"
+      },
+      "name": "SHRM",
+      "salience": 0.00043174592,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1402,
+            "content": "Sonoma"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Sonoma",
+      "salience": 0.00043123963,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3548,
+            "content": "accreditation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "accreditation",
+      "salience": 0.0004034311,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2181,
+            "content": "Yosemite"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0c_y8",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yosemite_National_Park"
+      },
+      "name": "Yosemite",
+      "salience": 0.00039900563,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2171,
+            "content": "Sukkot"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/072qz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sukkot"
+      },
+      "name": "Sukkot",
+      "salience": 0.00039900563,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3227,
+            "content": "Marin Campus"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Marin Campus",
+      "salience": 0.0003739574,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3296,
+            "content": "Head of School Search Committee, Compensation Committee"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Head of School Search Committee, Compensation Committee",
+      "salience": 0.00037373282,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3499,
+            "content": "Accreditation Coordinator"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Accreditation Coordinator",
+      "salience": 0.0003713191,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3996,
+            "content": "children"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "children",
+      "salience": 0.00034926808,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2769,
+            "content": "B.A."
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "B.A.",
+      "salience": 0.00031404966,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3450,
+            "content": "Curriculum Mapping"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0ddycz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Curriculum_mapping"
+      },
+      "name": "Curriculum Mapping",
+      "salience": 0.00029918668,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3851,
+            "content": "Shalom Hartman Institute for Emerging Leaders"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Shalom Hartman Institute for Emerging Leaders",
+      "salience": 0.0002972658,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2565,
+            "content": "buildings"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "buildings",
+      "salience": 0.0002779354,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2908,
+            "content": "skiing"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "skiing",
+      "salience": 0.0002740845,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2849,
+            "content": "ski areas"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "ski areas",
+      "salience": 0.00025313272,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3611,
+            "content": "Alumni Relations Coordinator"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Alumni Relations Coordinator",
+      "salience": 0.00023822865,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3904,
+            "content": "OMJCC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "OMJCC",
+      "salience": 0.00023810384,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3794,
+            "content": "OMJCC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "OMJCC",
+      "salience": 0.00023810384,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2589,
+            "content": "conferences"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "conferences",
+      "salience": 0.0002226195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.9,
+            "score": 0.9
+          },
+          "text": {
+            "beginOffset": 2499,
+            "content": "risks"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "risks",
+      "salience": 0.0002226195,
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2532,
+            "content": "benefits"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "benefits",
+      "salience": 0.0002226195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2925,
+            "content": "passion"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "passion",
+      "salience": 0.00022231479,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3543,
+            "content": "WASC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03b1fn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Western_Association_of_Schools_and_Colleges"
+      },
+      "name": "WASC",
+      "salience": 0.00020933933,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3538,
+            "content": "CAIS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "CAIS",
+      "salience": 0.00020933933,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3804,
+            "content": "Rodef Sholom"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0bs638z",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rodef_Sholom_(San_Rafael,_California)"
+      },
+      "name": "Rodef Sholom",
+      "salience": 0.00020911513,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2792,
+            "content": "Williams College"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/086xm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Williams_College"
+      },
+      "name": "Williams College",
+      "salience": 0.00017623944,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2677,
+            "content": "American Institute of Architects"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02hvqs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Institute_of_Architects"
+      },
+      "name": "American Institute of Architects",
+      "salience": 0.00016420185,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2655,
+            "content": "Urban Land Institute"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/08_gwl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Urban_Land_Institute"
+      },
+      "name": "Urban Land Institute",
+      "salience": 0.00016420185,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2613,
+            "content": "Building Owners and Managers Association"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/026sf2q",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Building_Owners_and_Managers_Association"
+      },
+      "name": "Building Owners and Managers Association",
+      "salience": 0.00016420185,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2894,
+            "content": "Bay Area"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/06pvr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco_Bay_Area"
+      },
+      "name": "Bay Area",
+      "salience": 0.00014954671,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2715,
+            "content": "CERES"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "CERES",
+      "salience": 0.00013151794,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2777,
+            "content": "Economics"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02j62",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Economics"
+      },
+      "name": "Economics",
+      "salience": 0.00013142539,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2748,
+            "content": "New York"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02_286",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/New_York_City"
+      },
+      "name": "New York",
+      "salience": 0.00013142539,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2862,
+            "content": "Colorado"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01n4w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Colorado"
+      },
+      "name": "Colorado",
+      "salience": 0.0001313379,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,269 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "<p>President - Rose Barlow<br>VP - Eric Zimmerman<br>Secretary - Colleen Horowitz<br>Treasurer - Orr Shakked<br>Immediate Past President - Marty Friedman<br><br></p>\n<h3>Rose Barlow</h3>\n<p>As a longtime supporter of Marin\u2019s Jewish day school, Rose is the current Board President and serves on the Executive, Head Evaluation, Budget &amp; Finance, Facilities and Governance Committees."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 388,
+        "content": "Rose is also the co-chair of the Advancement Committee."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 446,
+        "content": "From 2003-2011 she served as a trustee of Brandeis Hillel Day School."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 516,
+        "content": "During that time, she was variously a Marin campus Parent Association Co-President, Chair of the Annual Fund, member of the 2004/5 head of school search committee, Secretary of the\n  Board and Chair of the Committee on Trustees."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 745,
+        "content": "Rose is the Executive Director of Zero Breast Cancer and a Taproot Foundation pro bono capacity building consultant."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 862,
+        "content": "She is an executive board member of the Jewish National Fund\u2019s Northern California Region."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 957,
+        "content": "She serves on the Jewish National Funds' national Nefesh B\u2019Nefesh task force."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1037,
+        "content": "Rose is an alumna of the Universities of Cape Town and the Witwatersrand."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1111,
+        "content": "Her early career was in industrial relations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 1157,
+        "content": "She is a professional member of SHRM."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1195,
+        "content": "Rose is married\n  to Chris Barlow and their daughters, a college graduate and a college junior, both attended Brandeis Marin.</p>\n<h3>Scott Barshack</h3>\n<p>Scott has been serving the residents of Marin and Sonoma counties as a psychiatrist for the past 28 years with a special interest in teenagers and young adults."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1513,
+        "content": "He spent his first 20 professional years as the Medical Director of Mental Health at Marin\n  General Hospital."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1624,
+        "content": "Currently, he is the Medical Director of the Paradigm San Francisco Adolescent Residential program in San Rafael and retains a private practice in Corte Madera and Petaluma."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1798,
+        "content": "During his 14 years as a Brandeis parent, Scott served the\n  school as room parent many times, created and organized the Family Talent Show, and was the Chair of the Chesed Committee."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1982,
+        "content": "He is the proud father of 2 Brandeis alums.</p>\n<h3>David Cohen</h3>\n<p>David currently serves on the Budget and Finance Committee and Investment Subcommittee, and previously served on the Sukkot in Yosemite committee."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 2201,
+        "content": "David is Senior Product Director for Commercial Property at Allianz Global Corporate & Specialty Insurance,\n  where he has worked for over 25 years in various underwriting and management roles."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 2395,
+        "content": "He holds the Chartered Property-Casualty Underwriter designation and has spoken widely about the unique risks and sustainability-related benefits associated with green\n  buildings, including at conferences held by the Building Owners and Managers Association, Urban Land Institute, American Institute of Architects, and CERES."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2722,
+        "content": "David grew up in suburban New York and holds a B.A. in Economics from Williams College."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 2810,
+        "content": "David\n  spent several years working at ski areas in Colorado prior to moving to the Bay Area, and skiing remains a passion to this day."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 2946,
+        "content": "David and his wife Toni have a daughter, Rosie, who graduated from Brandeis Marin in 2018 and is currently enrolled in Terra\n  Linda High School\u2019s Marin School of Environmental Leadership.</p>\n<h3><br>Becky Fenster</h3>\n<p>Becky spent over a decade as a classroom teacher on the Marin Campus of Brandeis."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3253,
+        "content": "During her tenure, she participated in the Head of School Search Committee, Compensation Committee and Israel Education Committee."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3384,
+        "content": "Transitioning out of the classroom, she\n  oversaw the school-wide Curriculum Mapping project, and was the school's Accreditation Coordinator for its 2017 CAIS/WASC accreditation."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 3563,
+        "content": "Becky has also served as Brandeis Marin's first Alumni Relations Coordinator and helped found Mishpacha, the family\n  alumni association."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3701,
+        "content": "Over the last few years, Becky has also volunteered and co-chaired various committees at the OMJCC and Rodef Sholom; she has also participated in the Shalom Hartman Institute for Emerging Leaders on the OMJCC campus."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3918,
+        "content": "Becky graduated\n  from Brandeis in 1993."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3959,
+        "content": "She and her husband, Bryce, have two children and are active members of the local Jewish community.</p>"
+      }
+    }
+  ]
+}
