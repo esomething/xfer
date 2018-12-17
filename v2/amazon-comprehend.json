@@ -1,0 +1,690 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8985921740531921,
+            "Type": "PERSON",
+            "Text": "President - Rose Barlow",
+            "BeginOffset": 3,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9970175623893738,
+            "Type": "PERSON",
+            "Text": "Eric Zimmerman",
+            "BeginOffset": 35,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9977877736091614,
+            "Type": "PERSON",
+            "Text": "Colleen Horowitz",
+            "BeginOffset": 65,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8251451253890991,
+            "Type": "PERSON",
+            "Text": "Orr Shakked",
+            "BeginOffset": 97,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9072361588478088,
+            "Type": "PERSON",
+            "Text": "President - Marty Friedman",
+            "BeginOffset": 127,
+            "EndOffset": 153
+        },
+        {
+            "Score": 0.9865909218788147,
+            "Type": "PERSON",
+            "Text": "Rose Barlow",
+            "BeginOffset": 170,
+            "EndOffset": 181
+        },
+        {
+            "Score": 0.8200109601020813,
+            "Type": "PERSON",
+            "Text": "Marin",
+            "BeginOffset": 217,
+            "EndOffset": 222
+        },
+        {
+            "Score": 0.5877384543418884,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 225,
+            "EndOffset": 231
+        },
+        {
+            "Score": 0.9985107779502869,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 244,
+            "EndOffset": 248
+        },
+        {
+            "Score": 0.9957489967346191,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 386,
+            "EndOffset": 390
+        },
+        {
+            "Score": 0.9837453365325928,
+            "Type": "DATE",
+            "Text": "2003",
+            "BeginOffset": 449,
+            "EndOffset": 453
+        },
+        {
+            "Score": 0.9980667233467102,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 454,
+            "EndOffset": 458
+        },
+        {
+            "Score": 0.987200915813446,
+            "Type": "ORGANIZATION",
+            "Text": "Brandeis Hillel Day School",
+            "BeginOffset": 486,
+            "EndOffset": 512
+        },
+        {
+            "Score": 0.8098672032356262,
+            "Type": "ORGANIZATION",
+            "Text": "Marin campus Parent Association Co-President",
+            "BeginOffset": 552,
+            "EndOffset": 596
+        },
+        {
+            "Score": 0.6764477491378784,
+            "Type": "DATE",
+            "Text": "2004",
+            "BeginOffset": 638,
+            "EndOffset": 642
+        },
+        {
+            "Score": 0.7367812395095825,
+            "Type": "DATE",
+            "Text": "5",
+            "BeginOffset": 643,
+            "EndOffset": 644
+        },
+        {
+            "Score": 0.9572752714157104,
+            "Type": "ORGANIZATION",
+            "Text": "Committee on Trustees",
+            "BeginOffset": 720,
+            "EndOffset": 741
+        },
+        {
+            "Score": 0.989250659942627,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 743,
+            "EndOffset": 747
+        },
+        {
+            "Score": 0.8751439452171326,
+            "Type": "ORGANIZATION",
+            "Text": "Zero Breast Cancer",
+            "BeginOffset": 777,
+            "EndOffset": 795
+        },
+        {
+            "Score": 0.8841209411621094,
+            "Type": "ORGANIZATION",
+            "Text": "Taproot Foundation",
+            "BeginOffset": 802,
+            "EndOffset": 820
+        },
+        {
+            "Score": 0.9031891226768494,
+            "Type": "ORGANIZATION",
+            "Text": "Jewish National Fund’s Northern California Region",
+            "BeginOffset": 900,
+            "EndOffset": 949
+        },
+        {
+            "Score": 0.8310158252716064,
+            "Type": "ORGANIZATION",
+            "Text": "Jewish National Funds",
+            "BeginOffset": 971,
+            "EndOffset": 992
+        },
+        {
+            "Score": 0.728794276714325,
+            "Type": "ORGANIZATION",
+            "Text": "Nefesh B’Nefesh",
+            "BeginOffset": 1003,
+            "EndOffset": 1018
+        },
+        {
+            "Score": 0.9522993564605713,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 1031,
+            "EndOffset": 1035
+        },
+        {
+            "Score": 0.9560323357582092,
+            "Type": "ORGANIZATION",
+            "Text": "Universities of Cape Town",
+            "BeginOffset": 1056,
+            "EndOffset": 1081
+        },
+        {
+            "Score": 0.59319007396698,
+            "Type": "LOCATION",
+            "Text": "Witwatersrand",
+            "BeginOffset": 1090,
+            "EndOffset": 1103
+        },
+        {
+            "Score": 0.9415490627288818,
+            "Type": "ORGANIZATION",
+            "Text": "SHRM",
+            "BeginOffset": 1183,
+            "EndOffset": 1187
+        },
+        {
+            "Score": 0.9955021739006042,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 1189,
+            "EndOffset": 1193
+        },
+        {
+            "Score": 0.9994642734527588,
+            "Type": "PERSON",
+            "Text": "Chris Barlow",
+            "BeginOffset": 1210,
+            "EndOffset": 1222
+        },
+        {
+            "Score": 0.8310339450836182,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 1285,
+            "EndOffset": 1289
+        },
+        {
+            "Score": 0.9198077321052551,
+            "Type": "PERSON",
+            "Text": "Brandeis Marin",
+            "BeginOffset": 1299,
+            "EndOffset": 1313
+        },
+        {
+            "Score": 0.942086935043335,
+            "Type": "PERSON",
+            "Text": "Scott Barshack",
+            "BeginOffset": 1323,
+            "EndOffset": 1337
+        },
+        {
+            "Score": 0.9921098351478577,
+            "Type": "PERSON",
+            "Text": "Scott",
+            "BeginOffset": 1346,
+            "EndOffset": 1351
+        },
+        {
+            "Score": 0.7892063856124878,
+            "Type": "LOCATION",
+            "Text": "Marin",
+            "BeginOffset": 1386,
+            "EndOffset": 1391
+        },
+        {
+            "Score": 0.9114944338798523,
+            "Type": "LOCATION",
+            "Text": "Sonoma",
+            "BeginOffset": 1396,
+            "EndOffset": 1402
+        },
+        {
+            "Score": 0.8276005387306213,
+            "Type": "DATE",
+            "Text": "past 28 years",
+            "BeginOffset": 1438,
+            "EndOffset": 1451
+        },
+        {
+            "Score": 0.5616173148155212,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 1520,
+            "EndOffset": 1525
+        },
+        {
+            "Score": 0.8930813670158386,
+            "Type": "QUANTITY",
+            "Text": "20 professional years",
+            "BeginOffset": 1526,
+            "EndOffset": 1547
+        },
+        {
+            "Score": 0.8985533714294434,
+            "Type": "ORGANIZATION",
+            "Text": "Marin\n  General Hospital",
+            "BeginOffset": 1592,
+            "EndOffset": 1616
+        },
+        {
+            "Score": 0.8517682552337646,
+            "Type": "ORGANIZATION",
+            "Text": "Paradigm San Francisco Adolescent Residential",
+            "BeginOffset": 1663,
+            "EndOffset": 1708
+        },
+        {
+            "Score": 0.9833998084068298,
+            "Type": "LOCATION",
+            "Text": "San Rafael",
+            "BeginOffset": 1720,
+            "EndOffset": 1730
+        },
+        {
+            "Score": 0.9124194979667664,
+            "Type": "LOCATION",
+            "Text": "Corte Madera",
+            "BeginOffset": 1765,
+            "EndOffset": 1777
+        },
+        {
+            "Score": 0.9934076070785522,
+            "Type": "LOCATION",
+            "Text": "Petaluma",
+            "BeginOffset": 1782,
+            "EndOffset": 1790
+        },
+        {
+            "Score": 0.9813291430473328,
+            "Type": "QUANTITY",
+            "Text": "14 years",
+            "BeginOffset": 1803,
+            "EndOffset": 1811
+        },
+        {
+            "Score": 0.5143774151802063,
+            "Type": "LOCATION",
+            "Text": "Brandeis",
+            "BeginOffset": 1817,
+            "EndOffset": 1825
+        },
+        {
+            "Score": 0.9961462020874023,
+            "Type": "PERSON",
+            "Text": "Scott",
+            "BeginOffset": 1834,
+            "EndOffset": 1839
+        },
+        {
+            "Score": 0.6655738353729248,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 2002,
+            "EndOffset": 2003
+        },
+        {
+            "Score": 0.5621366500854492,
+            "Type": "LOCATION",
+            "Text": "Brandeis",
+            "BeginOffset": 2004,
+            "EndOffset": 2012
+        },
+        {
+            "Score": 0.9962359070777893,
+            "Type": "PERSON",
+            "Text": "David Cohen",
+            "BeginOffset": 2028,
+            "EndOffset": 2039
+        },
+        {
+            "Score": 0.9927607774734497,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 2048,
+            "EndOffset": 2053
+        },
+        {
+            "Score": 0.6967154145240784,
+            "Type": "LOCATION",
+            "Text": "Yosemite",
+            "BeginOffset": 2175,
+            "EndOffset": 2183
+        },
+        {
+            "Score": 0.9891062378883362,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 2195,
+            "EndOffset": 2200
+        },
+        {
+            "Score": 0.9665879011154175,
+            "Type": "ORGANIZATION",
+            "Text": "Allianz Global Corporate & Specialty Insurance",
+            "BeginOffset": 2255,
+            "EndOffset": 2301
+        },
+        {
+            "Score": 0.851419985294342,
+            "Type": "QUANTITY",
+            "Text": "over 25 years",
+            "BeginOffset": 2329,
+            "EndOffset": 2342
+        },
+        {
+            "Score": 0.939303994178772,
+            "Type": "ORGANIZATION",
+            "Text": "Building Owners and Managers Association",
+            "BeginOffset": 2607,
+            "EndOffset": 2647
+        },
+        {
+            "Score": 0.9843813180923462,
+            "Type": "ORGANIZATION",
+            "Text": "Urban Land Institute",
+            "BeginOffset": 2649,
+            "EndOffset": 2669
+        },
+        {
+            "Score": 0.9872051477432251,
+            "Type": "ORGANIZATION",
+            "Text": "American Institute of Architects",
+            "BeginOffset": 2671,
+            "EndOffset": 2703
+        },
+        {
+            "Score": 0.9438157677650452,
+            "Type": "ORGANIZATION",
+            "Text": "CERES",
+            "BeginOffset": 2709,
+            "EndOffset": 2714
+        },
+        {
+            "Score": 0.9971699118614197,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 2716,
+            "EndOffset": 2721
+        },
+        {
+            "Score": 0.9882910251617432,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 2742,
+            "EndOffset": 2750
+        },
+        {
+            "Score": 0.5526261329650879,
+            "Type": "ORGANIZATION",
+            "Text": "B.A.",
+            "BeginOffset": 2763,
+            "EndOffset": 2767
+        },
+        {
+            "Score": 0.9350107312202454,
+            "Type": "ORGANIZATION",
+            "Text": "Williams College",
+            "BeginOffset": 2786,
+            "EndOffset": 2802
+        },
+        {
+            "Score": 0.9969198703765869,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 2804,
+            "EndOffset": 2809
+        },
+        {
+            "Score": 0.7405337691307068,
+            "Type": "QUANTITY",
+            "Text": "several years",
+            "BeginOffset": 2818,
+            "EndOffset": 2831
+        },
+        {
+            "Score": 0.9979516863822937,
+            "Type": "LOCATION",
+            "Text": "Colorado",
+            "BeginOffset": 2856,
+            "EndOffset": 2864
+        },
+        {
+            "Score": 0.9744332432746887,
+            "Type": "LOCATION",
+            "Text": "Bay Area",
+            "BeginOffset": 2888,
+            "EndOffset": 2896
+        },
+        {
+            "Score": 0.9995611310005188,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 2940,
+            "EndOffset": 2945
+        },
+        {
+            "Score": 0.995525062084198,
+            "Type": "PERSON",
+            "Text": "Toni",
+            "BeginOffset": 2959,
+            "EndOffset": 2963
+        },
+        {
+            "Score": 0.9978360533714294,
+            "Type": "PERSON",
+            "Text": "Rosie",
+            "BeginOffset": 2981,
+            "EndOffset": 2986
+        },
+        {
+            "Score": 0.9361550211906433,
+            "Type": "PERSON",
+            "Text": "Brandeis Marin",
+            "BeginOffset": 3007,
+            "EndOffset": 3021
+        },
+        {
+            "Score": 0.9994408488273621,
+            "Type": "DATE",
+            "Text": "2018",
+            "BeginOffset": 3025,
+            "EndOffset": 3029
+        },
+        {
+            "Score": 0.9610759019851685,
+            "Type": "ORGANIZATION",
+            "Text": "Terra\n  Linda High School",
+            "BeginOffset": 3059,
+            "EndOffset": 3084
+        },
+        {
+            "Score": 0.9833307862281799,
+            "Type": "ORGANIZATION",
+            "Text": "Marin School of Environmental Leadership",
+            "BeginOffset": 3087,
+            "EndOffset": 3127
+        },
+        {
+            "Score": 0.9600520730018616,
+            "Type": "PERSON",
+            "Text": "Becky Fenster",
+            "BeginOffset": 3141,
+            "EndOffset": 3154
+        },
+        {
+            "Score": 0.9924312829971313,
+            "Type": "PERSON",
+            "Text": "Becky",
+            "BeginOffset": 3163,
+            "EndOffset": 3168
+        },
+        {
+            "Score": 0.8586127758026123,
+            "Type": "ORGANIZATION",
+            "Text": "Marin Campus of Brandeis",
+            "BeginOffset": 3219,
+            "EndOffset": 3243
+        },
+        {
+            "Score": 0.794314444065094,
+            "Type": "ORGANIZATION",
+            "Text": "School Search Committee",
+            "BeginOffset": 3296,
+            "EndOffset": 3319
+        },
+        {
+            "Score": 0.869594931602478,
+            "Type": "ORGANIZATION",
+            "Text": "Compensation Committee and Israel Education Committee",
+            "BeginOffset": 3321,
+            "EndOffset": 3374
+        },
+        {
+            "Score": 0.8999385237693787,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 3525,
+            "EndOffset": 3529
+        },
+        {
+            "Score": 0.5376080274581909,
+            "Type": "ORGANIZATION",
+            "Text": "CAIS",
+            "BeginOffset": 3530,
+            "EndOffset": 3534
+        },
+        {
+            "Score": 0.8916491866111755,
+            "Type": "ORGANIZATION",
+            "Text": "WASC",
+            "BeginOffset": 3535,
+            "EndOffset": 3539
+        },
+        {
+            "Score": 0.9952875375747681,
+            "Type": "PERSON",
+            "Text": "Becky",
+            "BeginOffset": 3555,
+            "EndOffset": 3560
+        },
+        {
+            "Score": 0.8702756762504578,
+            "Type": "PERSON",
+            "Text": "Brandeis Marin",
+            "BeginOffset": 3580,
+            "EndOffset": 3594
+        },
+        {
+            "Score": 0.8778676986694336,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 3597,
+            "EndOffset": 3602
+        },
+        {
+            "Score": 0.8340631127357483,
+            "Type": "ORGANIZATION",
+            "Text": "Alumni Relations Coordinator",
+            "BeginOffset": 3603,
+            "EndOffset": 3631
+        },
+        {
+            "Score": 0.5672131776809692,
+            "Type": "PERSON",
+            "Text": "Mishpacha",
+            "BeginOffset": 3649,
+            "EndOffset": 3658
+        },
+        {
+            "Score": 0.8855966329574585,
+            "Type": "DATE",
+            "Text": "last few years",
+            "BeginOffset": 3702,
+            "EndOffset": 3716
+        },
+        {
+            "Score": 0.9970877766609192,
+            "Type": "PERSON",
+            "Text": "Becky",
+            "BeginOffset": 3718,
+            "EndOffset": 3723
+        },
+        {
+            "Score": 0.5438754558563232,
+            "Type": "ORGANIZATION",
+            "Text": "OMJCC",
+            "BeginOffset": 3786,
+            "EndOffset": 3791
+        },
+        {
+            "Score": 0.7360401749610901,
+            "Type": "PERSON",
+            "Text": "Rodef Sholom",
+            "BeginOffset": 3796,
+            "EndOffset": 3808
+        },
+        {
+            "Score": 0.9282678365707397,
+            "Type": "ORGANIZATION",
+            "Text": "Shalom Hartman Institute for Emerging Leaders",
+            "BeginOffset": 3843,
+            "EndOffset": 3888
+        },
+        {
+            "Score": 0.597112774848938,
+            "Type": "ORGANIZATION",
+            "Text": "OMJCC",
+            "BeginOffset": 3896,
+            "EndOffset": 3901
+        },
+        {
+            "Score": 0.9935595989227295,
+            "Type": "PERSON",
+            "Text": "Becky",
+            "BeginOffset": 3910,
+            "EndOffset": 3915
+        },
+        {
+            "Score": 0.6270977258682251,
+            "Type": "ORGANIZATION",
+            "Text": "Brandeis",
+            "BeginOffset": 3933,
+            "EndOffset": 3941
+        },
+        {
+            "Score": 0.9994924068450928,
+            "Type": "DATE",
+            "Text": "1993",
+            "BeginOffset": 3945,
+            "EndOffset": 3949
+        },
+        {
+            "Score": 0.9982044696807861,
+            "Type": "PERSON",
+            "Text": "Bryce",
+            "BeginOffset": 3972,
+            "EndOffset": 3977
+        },
+        {
+            "Score": 0.9007830023765564,
+            "Type": "QUANTITY",
+            "Text": "two children",
+            "BeginOffset": 3984,
+            "EndOffset": 3996
+        },
+        {
+            "Score": 0.8849151730537415,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 4033,
+            "EndOffset": 4039
+        }
+    ]
+}
